@@ -16,9 +16,9 @@ Nowadays, I don't really use html, but sill understand it as other coding becomi
 
 My other HTML projects that I will edit(privacy issues), I'll publish it here if I have time.
 
-Below here will have my other HTML usage on other sites.
 
-I created a guitar tab using thier HTML layout.
+Below here will have my other HTML usage on other sites:
+I created a guitar tab using their HTML layout.
 UltimateGuitarTabs: https://tabs.ultimate-guitar.com/tab/one-ok-rock/last-dance-tabs-1772760
 
 Thanks.
