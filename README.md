@@ -28,8 +28,8 @@ Links:
 
 ## Information
 
-These are the coding files for Java that I learned in class and assignments with my own version of the code.
-Most of these codes are beginner to intermediate level.
+These are the coding files for HTML-CSS-JavaScript that I learned in class and assignments with my own version of the code.
+Most of these codes are beginner level.
 
 ### Textbooks
 K. Rosen, *Discrete Mathematics and Its Applications, 8th ed.*, McGraw-Hill Education, Jul. 9, 2018. [Online Textbook Available](https://www.mheducation.com/highered/product/Discrete-Mathematics-and-Its-Applications-Rosen.html). [Accessed: n.d.]
@@ -55,13 +55,7 @@ who participated in this project.
 ## Acknowledgments
 
 - [Google Scholar](https://scholar.google.com/)
-- [Java Doc](https://docs.oracle.com/javase/8/javase-books.htm)
 - [Wikipedia](https://www.wikipedia.org/)
-- [CC Library](https://cypresscollege.libguides.com/az/databases)
-- [FC Library](https://library.fullcoll.edu/)
-- [OC Library](https://orangecoastcollege.edu/academics/library/index.html)
-- [UMGC Library](https://libguides.umgc.edu/home)
-- [UMGC CS Resources](https://libguides.umgc.edu/c.php?g=316603&p=2114865)
  - Thank you!
  - VictoriaRaven
 
